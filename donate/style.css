@@ -1,0 +1,127 @@
+body {
+  font-family: "Roboto Slab", serif;
+}
+/* ------------------------------------------- */
+.banner {
+  background-image: url(images/donation13.jpg);
+  height: 650px;
+  width: auto;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: aliceblue;
+  text-align: center;
+}
+.h1 {
+  font-size: xx-large;
+}
+
+.Donate-here {
+  text-decoration: none;
+  color: white;
+  background-color: tomato;
+  text-align: center;
+  padding: 10px 40px;
+  border: 5px solid tomato;
+  border-radius: 5px;
+}
+/* ============================ */
+.section-2 {
+  text-align: center;
+}
+ul li a {
+  text-decoration: none;
+  border: 1px solid tomato;
+  padding: 10px 40px;
+  margin-left: 80px;
+  margin-top: 20px;
+  margin-bottom: 30px;
+  background-color: tomato;
+}
+li {
+  list-style-type: none;
+}
+ul {
+  display: flex;
+}
+.button {
+  border: 1px solid tomato;
+  background-color: tomato;
+  border-radius: 7px;
+  padding: 20px 40px;
+}
+/* ================================================ */
+#icon {
+  display: flex;
+}
+.OK {
+  text-align: center;
+}
+.one {
+  background-color: aquamarine;
+  opacity: 0.3;
+  font-weight: 700;
+}
+.two {
+  background-color: burlywood;
+}
+.three {
+  background-color: blueviolet;
+}
+#good {
+  display: flex;
+  margin-top: 30px;
+  padding: 50px 50px;
+  margin: 10px;
+}
+.good-a {
+  text-decoration: none;
+  border: 1px solid tomato;
+  background-color: tomato;
+  padding: 20px 40px;
+  border-radius: 7px;
+  color: aliceblue;
+}
+/* ==================================== */
+#great {
+  display: flex;
+}
+.fifty {
+  width: 50%;
+}
+.i-g {
+  height: 400px;
+  width: auto;
+}
+.gre-a {
+  text-decoration: none;
+  border: 1px solid tomato;
+  background-color: tomato;
+  padding: 20px 40px;
+  border-radius: 7px;
+  color: aliceblue;
+}
+/* ===========================no========== */
+#no {
+  text-align: center;
+}
+.email {
+  padding: 15px 120px;
+  border-radius: 5px;
+  margin-top: 100px;
+  margin-right: 0px;
+}
+.sub {
+  padding: 15px 80px;
+  margin-left: 0;
+  background-color: orangered;
+  border-radius: 9px;
+}
+.last {
+  background-color: darkgray;
+  height: 200px;
+}
+footer {
+  background-color: black;
+  color: aliceblue;
+  text-align: center;
+}
